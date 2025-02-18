@@ -1,7 +1,7 @@
 <div class="post-meta">
   <strong>
     <span>Posted on</span>
-    <time>{{ .Date.Format (default "2006-01-02 15:04:05" .Site.Params.dateFmt) }}</time>
+    <time>{{ .Date.Format (default "2006-01-02" .Site.Params.dateFmt) }}</time>
     {{ with .Params.categories }}<span>in</span>{{ end }}
     {{ range $key, $value := .Params.categories -}}
       {{- if $key }}, {{ end }}
@@ -13,7 +13,7 @@
   {{ if and .IsPage (ne .Date .Lastmod) }}
     <div>
       Last updated on
-      <time>{{ .Lastmod.Format (default "2006-01-02 15:04:05" .Site.Params.dateFmt) }}</time>
+      <time>{{ .Lastmod.Format (default "2006-01-02" .Site.Params.dateFmt) }}</time>
     </div>
   {{ end }}
   {{ with .Params.tags }}
