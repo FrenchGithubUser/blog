@@ -49,7 +49,7 @@ The requirements were :
 - low input lag (for video games)
 
 After some thinkering, specs and price comparisons, I went with the ViewSonic X1-4K.
-{{< centeredImg "/images/posts/home-theater/videoprojector.jpg" "70%">}}
+{{< centeredImg "images/posts/home-theater/videoprojector.jpg" "70%">}}
 
 This projector uses the DLP technology, which might cause a little bit of color tearing in fast movements or high contrast scenes. But it is barely noticeable for the trained eye, and went unnoticed by my friends and family. Also, it's long life expectancy (30 000h) and cheap price balanced it.
 
@@ -80,7 +80,7 @@ So I sold back the amplifier to the seller (who was really nice with me) and bou
 
 Anyways, I ended up with working speakers, and a working amplifier.
 
-{{< centeredImg "/images/posts/home-theater/audiosystem.png" "40%">}}
+{{< centeredImg "images/posts/home-theater/audiosystem.png" "40%">}}
 
 Final price (second hand): 250€
 
@@ -137,11 +137,11 @@ The theme I chose was [Arctic Fuse 2](https://forum.kodi.tv/showthread.php?tid=3
 
 The setup is quite straightforward, adding some widgets and configure their shortcut to the various jellyfin libraries, and voilà !
 
-{{< centeredImg "/images/posts/home-theater/coreelec.png" "80%" >}}
+{{< centeredImg "images/posts/home-theater/coreelec.png" "80%" >}}
 
 Finally, Kodi has a mobile app that can be used as a remote controller, [Kore](https://github.com/xbmc/Kore). The device I bought also supports IR controllers, but I don't find them as convenient as Kore.
 
-{{< centeredImg "/images/posts/home-theater/kore.png" "70%">}}
+{{< centeredImg "images/posts/home-theater/kore.png" "70%">}}
 
 ### Video Games
 
@@ -156,19 +156,19 @@ Playnite also has controller support (no need to use your mouse and keyboard). I
 And voilà !
 
 
-{{< centeredImg "/images/posts/home-theater/playnite.png" "80%">}}
+{{< centeredImg "images/posts/home-theater/playnite.png" "80%">}}
 
-{{< centeredImg "/images/posts/home-theater/game.png" "80%" >}}
+{{< centeredImg "images/posts/home-theater/game.png" "80%" >}}
 
 
 # Conclusion
 
-{{< centeredImg "/images/posts/home-theater/front_light.jpg" "80%" >}}
-{{< centeredImg "/images/posts/home-theater/back_light.jpeg" "80%" >}}
+{{< centeredImg "images/posts/home-theater/front_light.jpg" "80%" >}}
+{{< centeredImg "images/posts/home-theater/back_light.jpeg" "80%" >}}
 
 A few more words on the physical setup. The wires are hidden in the closet and go over the wooden trunks on the ceiling. The front speakers are in the closet and are hidden as soon as the doors are closed. The screen can be rolled up into its case.
 
-{{< centeredImg "/images/posts/home-theater/behind_amp.jpg" "70%" >}}
-{{< centeredImg "/images/posts/home-theater/amp_setup.jpg" "70%" >}}
+{{< centeredImg "images/posts/home-theater/behind_amp.jpg" "70%" >}}
+{{< centeredImg "images/posts/home-theater/amp_setup.jpg" "70%" >}}
 
 I was scared that the closet would vibrate with the speakers, but it doesn't ! The only vibrations I got was on very specific frequencies, with a very high (too high) volume, the back part of the closet was vibrating, as it is very thin.
