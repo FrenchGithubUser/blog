@@ -1,9 +1,8 @@
 # exampleSite/config.yaml
-baseURL: https://smigle-hugo-theme.netlify.app/ # Replace with your domain
+baseURL: https://frenchgithubuser.github.io/blog/
 languageCode: en-us
 theme: smigle
-themesDir: ../.. # Only needed for running the example site
-title: Blog Title
+title: FrenchGithubUser's Blog
 menu:
   main: # Change menu as needed
     - identifier: home
